@@ -5,12 +5,12 @@ public class MainAssignmentQues {
         BankOperations obj_op=new BankOperations(30000.25);
         try{
             try{
-                obj_op.withdraw(35000.00);
+                obj_op.withdraw(3000.00);
             }
             catch (InsufficientBalanceException e){
                 System.out.println(e);
             }
-            obj_op.deposit(0.0);
+            obj_op.deposit(2800.0);
         }
         catch (InvalidAmountException e){
             System.out.println(e);

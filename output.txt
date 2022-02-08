@@ -1,0 +1,21 @@
+Assignment Ques 1 & 2
+Parameter as msg Insufficient Funds
+CustomizedExceptionAssignment.InsufficientBalanceException
+Parameter as msg Amount invalid.
+CustomizedExceptionAssignment.InvalidAmountException
+
+Practice Ques(Age)
+Parameter as msg Not eligible for College 17
+CustomizeException.InvalidAgeException
+Parameter as msg Not a student person
+CustomizeException.InvalidPersonException
+
+NestedTry2.java
+java.lang.NullPointerException: Cannot invoke "String.length()" because "abc" is null
+Nested
+java.lang.ArithmeticException: / by zero
+
+NestedTryDemo
+Nested
+java.lang.NullPointerException: Cannot invoke "String.length()" because "abc" is null
+

@@ -4,6 +4,12 @@ CustomizedExceptionAssignment.InsufficientBalanceException
 Parameter as msg Amount invalid.
 CustomizedExceptionAssignment.InvalidAmountException
 
+Assignment Ques1 & Ques2(Normal)
+Amount to be Withdrawn: 3000.0
+Balance after Withdrawing: 27000.25
+Amount Entered 2800.0
+After Depositing ::32800.25
+
 Practice Ques(Age)
 Parameter as msg Not eligible for College 17
 CustomizeException.InvalidAgeException
